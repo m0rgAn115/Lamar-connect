@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper {
+  width: 250px;
+  height: 350px;
+}
+
+.card {
+  width: 200px;
+  height: 300px;
+}
